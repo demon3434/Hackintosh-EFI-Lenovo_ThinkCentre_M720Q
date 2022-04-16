@@ -15,6 +15,7 @@
 | 内存 | 杂牌，DDR4 2666 8G*2 |
 | 硬盘 | 铠侠RC10，nvme 512GB |
 | 显卡 | Intel UHD Graphics 630 |
+| 显示器 | DIY便携屏，4K 60Hz |
 | 无线网卡 | 联想拆机卡（ngff，1个缺口），博通BCM94352Z |
 
 ### 完成度
@@ -35,7 +36,8 @@
 ### 备注
 1. PlatformInform 模拟机型，选择 Macmini8,1
 2. 隔空投送问题未解决，建议不要升级Monterey
-3. 如需使用此EFI，请***务必重新三码摇号***（适合OpenCore v0.79的OCC编辑器已放入本仓库，[图文教程](https://blog.csdn.net/xuanxue11/article/details/107873835)）
+3. 由于本人使用4K显示器，故设置了UIScale=02；如果用1080P显示器，苹果logo会显得巨大，请自行到nvram的“4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14”中，修改UIScale为01
+4. 如需使用此EFI，请***务必重新三码摇号***（适合OpenCore v0.79的OCC编辑器已放入本仓库，[图文教程](https://blog.csdn.net/xuanxue11/article/details/107873835)）
 
 ### 效果图
 ![关于本机.png](https://github.com/demon3434/Hackintosh-EFI-M720Q/blob/main/OpenCore%20v0.79%20%26%20macOS%20Big%20Sur%2011.6.5%20(20G527)/1.%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png "关于本机")
