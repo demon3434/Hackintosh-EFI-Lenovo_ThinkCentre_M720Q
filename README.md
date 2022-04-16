@@ -12,7 +12,7 @@
 | -------- | :----: |
 | 主机 | 联想 ThinkCenter M720Q |
 | CPU | Intel Core i9 9900T |
-| 内存 | 杂牌，DDR4 2666 8G*2 |
+| 内存 | 玖合 DDR4 2666 16G*2 |
 | 硬盘 | 铠侠RC10，nvme 512GB |
 | 显卡 | Intel UHD Graphics 630 |
 | 显示器 | DIY便携屏，4K 60Hz |
