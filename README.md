@@ -27,7 +27,7 @@
 
 ### 缺陷
 + CPU显示不正确
-+ 在低版本的 macOS Big Sur 上 11.连接蓝牙音响，声音会有断断续续的卡顿现象，升级到11.6.5 (20G527)，蓝牙声音正常
++ 初始安装，使用黑果小兵的镜像 macOS Big Sur 11.5.2 (20G95)，安装完毕未升版本，直接连接蓝牙音响，声音会有断断续续的卡顿现象，升级到11.6.5 (20G527)，蓝牙声音正常
 + 隔空投送，Monterey下只能接受，不能发送；Big Sur下搜索iPhone设备，略微有两三秒延迟，才能找到
 
 ### 备注
@@ -38,4 +38,3 @@
 ![关于本机.png](https://github.com/demon3434/Hackintosh-EFI-M720Q/blob/main/OpenCore%20v0.79%20%26%20macOS%20Big%20Sur%2011.6.5%20(20G527)/1.%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
 ![蓝牙.png](https://github.com/demon3434/Hackintosh-EFI-M720Q/blob/main/OpenCore%20v0.79%20%26%20macOS%20Big%20Sur%2011.6.5%20(20G527)/2.%E8%93%9D%E7%89%99.png)
 ![Hackintool系统信息.png](https://github.com/demon3434/Hackintosh-EFI-M720Q/blob/main/OpenCore%20v0.79%20%26%20macOS%20Big%20Sur%2011.6.5%20(20G527)/3.Hackintool%E7%B3%BB%E7%BB%9F%E4%BF%A1%E6%81%AF.png)
-
