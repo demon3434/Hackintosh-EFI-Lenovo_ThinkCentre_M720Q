@@ -33,6 +33,7 @@
 ### 备注
 1. PlatformInform 模拟机型，选择 Macmini8,1
 2. 隔空投送问题未解决，建议不要升级Monterey
+3. 如需使用此EFI，请***务必重新三码摇号***（适合OpenCore v0.79的OCC编辑器已放入本仓库，[图文教程](https://blog.csdn.net/xuanxue11/article/details/107873835)）
 
 ### 效果图
 ![关于本机.png](https://github.com/demon3434/Hackintosh-EFI-M720Q/blob/main/OpenCore%20v0.79%20%26%20macOS%20Big%20Sur%2011.6.5%20(20G527)/1.%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png "关于本机")
