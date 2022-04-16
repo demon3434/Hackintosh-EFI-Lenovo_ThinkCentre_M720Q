@@ -14,9 +14,11 @@
 | CPU | Intel Core i9 9900T |
 | 内存 | 杂牌，DDR4 2666 8G*2 |
 | 硬盘 | 铠侠RC10，nvme 512GB |
+| 显卡 | Intel UHD Graphics 630 |
 | 无线网卡 | 联想拆机卡（ngff，1个缺口），博通BCM94352Z |
 
 ### 完成度
++ 核显正常驱动，2048MB显存
 + 声卡正常驱动
 + Wi-Fi、蓝牙正常驱动。Big Sur 11.6.5 (20G527) 下可以隔空投送
 + HDMI、DP接口均能亮屏，VGA接口未测试
