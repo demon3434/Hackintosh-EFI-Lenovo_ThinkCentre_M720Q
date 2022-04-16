@@ -35,6 +35,6 @@
 2. 隔空投送问题未解决，建议不要升级Monterey
 
 ### 效果图
-![关于本机.png](https://github.com/demon3434/Hackintosh-EFI-M720Q/blob/main/OpenCore%20v0.79%20%26%20macOS%20Big%20Sur%2011.6.5%20(20G527)/1.%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
-![蓝牙.png](https://github.com/demon3434/Hackintosh-EFI-M720Q/blob/main/OpenCore%20v0.79%20%26%20macOS%20Big%20Sur%2011.6.5%20(20G527)/2.%E8%93%9D%E7%89%99.png)
-![Hackintool系统信息.png](https://github.com/demon3434/Hackintosh-EFI-M720Q/blob/main/OpenCore%20v0.79%20%26%20macOS%20Big%20Sur%2011.6.5%20(20G527)/3.Hackintool%E7%B3%BB%E7%BB%9F%E4%BF%A1%E6%81%AF.png)
+![关于本机.png](https://github.com/demon3434/Hackintosh-EFI-M720Q/blob/main/OpenCore%20v0.79%20%26%20macOS%20Big%20Sur%2011.6.5%20(20G527)/1.%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png "关于本机")
+![蓝牙.png](https://github.com/demon3434/Hackintosh-EFI-M720Q/blob/main/OpenCore%20v0.79%20%26%20macOS%20Big%20Sur%2011.6.5%20(20G527)/2.%E8%93%9D%E7%89%99.png "蓝牙")
+![Hackintool系统信息.png](https://github.com/demon3434/Hackintosh-EFI-M720Q/blob/main/OpenCore%20v0.79%20%26%20macOS%20Big%20Sur%2011.6.5%20(20G527)/3.Hackintool%E7%B3%BB%E7%BB%9F%E4%BF%A1%E6%81%AF.png "Hackintool系统信息")
