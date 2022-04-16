@@ -1369,7 +1369,7 @@
 			<key>SystemSerialNumber</key>
 			<string>C07WH0KBJYVX</string>
 			<key>SystemUUID</key>
-			<string>DA04C970-4D57-492A-AB60-D955246F5F75</string>
+			<string>AEF945F4-F5D8-48FD-A0C3-C6FDC139F032</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
@@ -1392,7 +1392,7 @@
 			<key>SystemSerialNumber</key>
 			<string>C07WH0KBJYVX</string>
 			<key>SystemUUID</key>
-			<string>DA04C970-4D57-492A-AB60-D955246F5F75</string>
+			<string>AEF945F4-F5D8-48FD-A0C3-C6FDC139F032</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
@@ -1447,7 +1447,7 @@
 			<key>SystemSerialNumber</key>
 			<string>C07WH0KBJYVX</string>
 			<key>SystemUUID</key>
-			<string>DA04C970-4D57-492A-AB60-D955246F5F75</string>
+			<string>AEF945F4-F5D8-48FD-A0C3-C6FDC139F032</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
